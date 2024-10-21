@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="your-logo-url" alt="Wi-Fi Card Logo" width="200"/>
+  <img src="![App Screenshot](.assets/images/background.png)" alt="Wi-Fi Card Logo" width="200"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Once the **Wi-Fi Card** app is available on the Google Play Store, follow these 
 ## Screenshots
 ![home](https://github.com/user-attachments/assets/492f0d0d-05f6-4616-93df-a350daabf248)
 
-_Screenshots will be available after the official app release._
+
 
 ---
 
