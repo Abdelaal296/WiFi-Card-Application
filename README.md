@@ -1,64 +1,78 @@
-# Wi-Fi Card Application
+<h1 align="center">Wi-Fi Card Application</h1>
 
-Wi-Fi Card is an innovative mobile application designed to simplify and streamline the process of transferring money and balance between different networks. This cross-network financial solution provides a secure, fast, and user-friendly interface, making it easy for users to transfer funds and balances effortlessly.
+<p align="center">
+  A transformative app for seamless cross-network money and balance transfers.
+</p>
 
+<p align="center">
+  <img src="your-logo-url" alt="Wi-Fi Card Logo" width="200"/>
+</p>
+
+---
 
 ## Table of Contents
 
-Features
+- [Overview](#overview)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 
-Technology Stack
+---
 
-Installation
+## Overview
 
-Usage
+The **Wi-Fi Card** application is designed to simplify cross-network money and balance transfers. With this application, users can effortlessly transfer funds and mobile balance between different telecom networks, ensuring convenience, security, and speed. This innovative app aims to bridge the gap between networks and make financial transactions easier for users globally.
 
+**Coming soon** on the Google Play Store.
 
+---
 
 ## Features
 
-Money Transfers: Seamlessly transfer funds between users on different networks.
+- **Cross-Network Transfers**: Transfer money and mobile balances between different telecom networks.
+- **Secure Transactions**: All transactions are secured with advanced encryption.
+- **Fast & Reliable**: Real-time processing with minimal delays.
+- **User-Friendly Interface**: Simple, easy-to-use interface for a seamless experience.
+- **Transaction History**: View and track all past transactions in one place.
 
-Balance Transfers: Transfer mobile balances between various telecom networks, enabling cross-network top-ups.
-
-Secure Transactions: All transactions are encrypted and secured, ensuring user data and funds are protected.
-
-Fast and Reliable: Enjoy fast and efficient transactions with minimal delays.
-
-User-friendly Interface: Simple, intuitive UI design for ease of use by both new and experienced users.
+---
 
 ## Technology Stack
 
-Flutter: Cross-platform development framework for building responsive mobile applications.
+- **Flutter**: For building cross-platform mobile applications (iOS and Android).
+- **Dart**: Programming language for Flutter.
+- **Firebase**: Used for authentication and real-time database management.
+- **RESTful APIs**: For secure, real-time transaction communication between networks.
 
-Firebase: Backend integration for authentication and real-time database management.
-
-Dart: The core programming language behind the Flutter framework.
-
-API Integration: To support secure, real-time transactions between networks.
+---
 
 ## Installation
 
-Currently, the Wi-Fi Card app is not yet available for public download but will be available soon on Google Play.
+Once the **Wi-Fi Card** app is available on the Google Play Store, follow these steps to install it:
 
+1. Open the [Google Play Store](https://play.google.com/).
+2. Search for **Wi-Fi Card**.
+3. Tap **Install** to download and install the app on your Android device.
+4. Once installed, open the app and register a new account to begin using the service.
 
-Once available, follow these steps:
-
-
-Go to the Google Play Store (Link will be provided after launch).
-
-Search for "Wi-Fi Card" and click "Install".
-
-Open the app and register an account to begin transferring money and balances.
+---
 
 ## Usage
 
-Sign Up: Create an account using your email and phone number.
+1. **Register**: Sign up for a new account using your email and phone number.
+2. **Login**: Use your credentials to log into the app.
+3. **Transfer Money**: Select the network and recipient, then enter the amount to transfer.
+4. **Transfer Balance**: Choose the network and input the balance amount to transfer between networks.
+5. **View Transactions**: Access your transaction history to monitor your activities.
 
-Login: Access your account to manage transfers.
+---
 
-Money Transfer: Select the recipient's network, enter the amount, and complete the transaction securely.
+## Screenshots
 
-Balance Transfer: Choose a network, enter the balance amount, and transfer it to another user on a different network.
+_Screenshots will be available after the official app release._
 
+---
 
+<h3 align="center">Stay tuned for the app launch on Google Play!</h3>
