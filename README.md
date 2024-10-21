@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="![App Screenshot](.assets/images/background.png)" alt="Wi-Fi Card Logo" width="200"/>
+  <img src="assets/images/background.png" alt="Wi-Fi Card Logo" width="200"/>
 </p>
 
 ---
