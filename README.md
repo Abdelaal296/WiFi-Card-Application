@@ -6,19 +6,11 @@ Wi-Fi Card is an innovative mobile application designed to simplify and streamli
 Table of Contents
 
 Features
-
 Technology Stack
-
 Installation
-
 Usage
-
 Screenshots
-
 Upcoming Features
-
-Contributing
-
 License
 
 Features
