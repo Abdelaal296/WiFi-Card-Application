@@ -1,4 +1,4 @@
-Wi-Fi Card Application
+WIF
 Wi-Fi Card is an innovative mobile application designed to simplify and streamline the process of transferring money and balance between different networks. This cross-network financial solution provides a secure, fast, and user-friendly interface, making it easy for users to transfer funds and balances effortlessly.
 
 Table of Contents
