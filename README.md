@@ -35,7 +35,7 @@ Login: Access your account to manage transfers.
 Money Transfer: Select the recipient's network, enter the amount, and complete the transaction securely.
 Balance Transfer: Choose a network, enter the balance amount, and transfer it to another user on a different network.
 Screenshots
-
+Once the app is publicly available, screenshots of the user interface will be added here.
 
 Upcoming Features
 Multi-currency support: Transfer money between different currencies.
