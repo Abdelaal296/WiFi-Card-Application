@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312110533805",
+    "project_id": "wifi-fcc1d",
+    "storage_bucket": "wifi-fcc1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312110533805:android:0a67deed2ff68215bdca24",
+        "android_client_info": {
+          "package_name": "com.example.wifi_card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiHfjEgZyNiTVBmNEIKX2DjxhmsMkEE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
