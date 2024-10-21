@@ -73,9 +73,3 @@ Transaction history: View past transactions and monitor transfers.
 
 Cross-border transfers: Enable international transfers between different countries.
 
-
-Fork the repository.
-Create a new feature branch.
-Make your changes and submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
